@@ -1,4 +1,4 @@
-# PDO-ENSO_paper_PlioMIP2
+# PDO-ENSO_PlioMIP2_paper
 Analysis codes of "The Pacific Decadal Oscillation is an important mode of climate variability in the Pliocene" (Canal-Solis et al., in prep.)
 
 All codes provided correspond to all plots and tables for this study, including the supplement section.
