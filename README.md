@@ -8,9 +8,9 @@ The datasets used are PlioMIP2 simulations, described in the manuscript. Most of
 The Figures in the paper and codes can be followed in the following order:
 
 1) Variance_v2.ipynb: Figue 1, Table 2, Figure S1, Figure S2
-2) EOF1_PC1_tropical_Pacific_v2.ipynb: Figure 2
-3) EOF1_PC1_north_Pacific_v2.ipynb: Figure 3
-4) EOF1_PC1_Pacific_v2.ipynb: Figure 4
+2) EOF1_PC1_tropical_Pacific.ipynb: Figure 2
+3) EOF1_PC1_north_Pacific.ipynb: Figure 3
+4) EOF1_PC1_Pacific.ipynb: Figure 4
 5) Amplitude_bars_and_correlations_v2.ipynb: Figure 5, Figure 6, Figure 7, Figure 8
 6) ENSO_PC_index_amplitude.ipynb: Figure S3
 7) Amplitude_bars_SST_high_low_pass: Figure S4 and Figure S5
