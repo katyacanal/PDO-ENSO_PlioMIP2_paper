@@ -1,5 +1,5 @@
 # PDO-ENSO_PlioMIP2_paper
-Analysis codes of "Asymmetric Pacific Variability in the Pliocene: an unchanged PDO relative to a suppressed ENSO" (Canal-Solis et al., in prep.)
+Analysis codes of "Asymmetric Pacific variability in the Pliocene: an unchanged PDO relative to a suppressed ENSO" (Canal-Solis et al., in prep.)
 
 All codes provided correspond to all plots and tables for this study, including the supplement section.
 
