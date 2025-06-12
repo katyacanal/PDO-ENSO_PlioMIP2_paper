@@ -19,4 +19,7 @@ The Figures in the paper and codes can be followed in the following order:
 
 All codes finalised on 23/04/2025
 
+Citation
+Canal-Solis, K. (2025). katya_canal-solis/PDO-ENSO_PlioMIP2_paper: Asymmetric Pacific variability in the Pliocene: an unchanged PDO relative to a suppressed ENSO. https://doi.org/10.5281/zenodo.15653026
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15653026.svg)](https://doi.org/10.5281/zenodo.15653026)
