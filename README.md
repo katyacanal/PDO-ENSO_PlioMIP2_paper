@@ -18,3 +18,5 @@ The Figures in the paper and codes can be followed in the following order:
 9) E400_v2.ipynb: Figure S7
 
 All codes finalised on 23/04/2025
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15653026.svg)](https://doi.org/10.5281/zenodo.15653026)
